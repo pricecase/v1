@@ -1,67 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://www.pricecase.com</loc>
+    <loc>https://www.pricecase.com</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.pricecase.com/price-tracker/amazon</loc>
+    <loc>https://www.pricecase.com/price-tracker/amazon</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.pricecase.com/price-tracker/bestbuy</loc>
+    <loc>https://www.pricecase.com/price-tracker/bestbuy</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.pricecase.com/price-tracker/costco</loc>
+    <loc>https://www.pricecase.com/price-tracker/costco</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.pricecase.com/price-tracker/epson</loc>
+    <loc>https://www.pricecase.com/price-tracker/epson</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.pricecase.com/price-tracker/lowes</loc>
+    <loc>https://www.pricecase.com/price-tracker/lowes</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.pricecase.com/price-tracker/staples</loc>
+    <loc>https://www.pricecase.com/price-tracker/staples</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.pricecase.com/price-tracker/walmart</loc>
+    <loc>https://www.pricecase.com/price-tracker/walmart</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.pricecase.com/price-tracker/canada/amazon</loc>
+    <loc>https://www.pricecase.com/price-tracker/canada/amazon</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.pricecase.com/price-tracker/canada/bestbuy</loc>
+    <loc>https://www.pricecase.com/price-tracker/canada/bestbuy</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.pricecase.com/price-tracker/canada/canadiantire</loc>
+    <loc>https://www.pricecase.com/price-tracker/canada/canadiantire</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.pricecase.com/price-tracker/canada/costco</loc>
+    <loc>https://www.pricecase.com/price-tracker/canada/costco</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.pricecase.com/price-tracker/canada/epson</loc>
+    <loc>https://www.pricecase.com/price-tracker/canada/epson</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.pricecase.com/price-tracker/canada/lowes</loc>
+    <loc>https://www.pricecase.com/price-tracker/canada/labaie</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.pricecase.com/price-tracker/canada/staples</loc>
+    <loc>https://www.pricecase.com/price-tracker/canada/lowes</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.pricecase.com/price-tracker/canada/walmart</loc>
+    <loc>https://www.pricecase.com/price-tracker/canada/staples</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.pricecase.com/price-tracker/canada/thebay</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.pricecase.com/price-tracker/canada/walmart</loc>
     <priority>0.5</priority>
   </url>
 </urlset>
